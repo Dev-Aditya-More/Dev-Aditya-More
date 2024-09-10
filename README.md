@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya-More-Coder
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Jetpack compose
-- 💞️ I'm looking to collaborate on projects related to:
+- 🤝 I'm looking to collaborate on projects related to:
 
 - Android Development (using Kotlin and Jetpack Compose)
 - DevOps (Docker, Kubernetes, CI/CD)
