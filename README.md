@@ -3,7 +3,6 @@
 I’m looking to collaborate on
   * Android Development (using Kotlin and Jetpack Compose), <br>
   * DevOps (Docker, Kubernetes, CI/CD),<br>
-  * Data Science or Machine Learning (especially Python and PyTorch)
 
 <br>🌱 I’m currently learning in detail Jetpack Compose<br>💬 Ask me about Fundamentals of programming languages and Jetpack compose <br>⚡ I am 19 year old 
 
