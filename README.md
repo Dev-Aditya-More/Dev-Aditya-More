@@ -23,7 +23,7 @@ I’m looking to collaborate on
 [![](https://visitcount.itsvg.in/api?id=Dev-Aditya-More&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me
+📫 How to reach me
 - email: aditya1875more@gmail.com,
 - phone:+91 9922468357
 
