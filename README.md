@@ -6,8 +6,8 @@
 
 🌱 I’m currently learning in detail Jetpack Compose and flutter  
 ⚡ I am 19 years old   
-🚀 ![Linkedin](www.linkedin.com/in/adityamore2005)  
-💫 ![Twitter](https://x.com/Adityaastwt)
+🚀 [Linkedin]<https://linkedin.com/in/adityamore2005> 
+💫 [Twitter]<https://x.com/Adityaastwt>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dev-Aditya-More&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
