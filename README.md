@@ -4,7 +4,7 @@
   * Android Development (using Kotlin and Jetpack Compose), <br>
   * DevOps (Docker, Kubernetes, CI/CD),<br>
 
-🌱 I’m currently learning in detail Jetpack Compose and flutter  
+🌱 I’m currently learning in detail Jetpack Compose and devOps automation tools like Jenkins, Ansible, Kubernetes, Docker through the CI/CD pipeline also about some cool tools like datree, monokle, lens, kubescape
 ⚡ I am 19 years old   
 🚀 [Linkedin](https://linkedin.com/in/adityamore2005)   
 💫 [Twitter](https://x.com/Adityaastwt)
