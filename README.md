@@ -15,7 +15,7 @@
 # Leetcode info
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username={aditya1875more}&theme={github-dark}" alt="LeetCode Badges"/>
-![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
+![Leetcode Stats](https://leetcard.jacoblin.cool/aditya1875more?theme=wtf)
 
 ---
 📫 How to reach me
