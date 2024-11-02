@@ -12,11 +12,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dev-Aditya-More&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-# Leetcode info
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={aditya1875more}&theme={github-dark}" alt="LeetCode Badges"/>
-![Leetcode Stats](https://leetcard.jacoblin.cool/aditya1875more?theme=wtf)
-
 ---
 📫 How to reach me
 - email: aditya1875more@gmail.com,
