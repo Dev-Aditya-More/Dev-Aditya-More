@@ -14,7 +14,8 @@
 
 # Leetcode info
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}&theme={github-dark}" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={aditya1875more}&theme={github-dark}" alt="LeetCode Badges"/>
+
 ---
 📫 How to reach me
 - email: aditya1875more@gmail.com,
