@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on my problem solving skills <br>
 🤝 I’m looking to collaborate on
-  * Android Development (using Kotlin and Jetpack Compose), <br>
+  * Mobile Development (using Kotlin, Dart, Jetpack Compose, flutter), <br>
   * DevOps (Docker, Kubernetes, CI/CD),<br>
 
 🌱 I’m currently learning in detail Jetpack Compose and devOps automation tools like Jenkins, Ansible, Kubernetes, Docker through the CI/CD pipeline also about some cool tools like datree, monokle, lens, kubescape.   
