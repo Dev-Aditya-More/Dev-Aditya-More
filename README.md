@@ -9,6 +9,10 @@
 🚀 [Linkedin](https://linkedin.com/in/adityamore2005)   
 💫 [Twitter](https://x.com/Adityaastwt)
 
+# LeetCode Stats:
+![](https://leetcard.jacoblin.cool/aditya1875more?ext=contest)  
+![](https://leetcard.jacoblin.cool/aditya1875more?ext=heatmap)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dev-Aditya-More&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
