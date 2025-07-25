@@ -18,6 +18,7 @@
 
 ---
 📫 How to reach me
-- email: aditya1875more@gmail.com,
-- phone:+91 9922468357
+
+- email: aditya1875more@gmail.com
+- dm me: https://x.com/Adityaastwt
 
