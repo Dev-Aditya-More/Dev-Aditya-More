@@ -9,8 +9,16 @@
 🚀 [Linkedin](https://linkedin.com/in/adityamore2005)   
 💫 [Twitter](https://x.com/Adityaastwt)
 
+# Skills
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kotlin,java,androidstudio,linux,github,kubernetes,docker" />
+  </a>
+</p>
+
 # LeetCode Stats:
-![](https://leetcard.jacoblin.cool/aditya1875more?ext=contest)  
+
 ![](https://leetcard.jacoblin.cool/aditya1875more?ext=heatmap)
 
 
