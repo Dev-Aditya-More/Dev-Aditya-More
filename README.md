@@ -15,7 +15,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kotlin,java,androidstudio,linux,github,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=git,firebase,kotlin,java,python,androidstudio,linux,github,kubernetes,docker" />
   </a>
 </p>
 
