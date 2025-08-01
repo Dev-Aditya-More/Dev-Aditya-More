@@ -9,6 +9,8 @@
 🚀 [Linkedin](https://linkedin.com/in/adityamore2005)   
 💫 [Twitter](https://x.com/Adityaastwt)
 
+---
+
 # Skills
 
 <p align="start">
