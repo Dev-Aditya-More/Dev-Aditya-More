@@ -19,6 +19,8 @@
   </a>
 </p>
 
+---
+
 # LeetCode Stats:
 
 ![](https://leetcard.jacoblin.cool/aditya1875more?ext=heatmap)
