@@ -32,5 +32,5 @@
 📫 How to reach me
 
 - email: aditya1875more@gmail.com
-- dm me: https://x.com/Adityaastwt
+- shoot me: https://x.com/Adityaastwt
 
