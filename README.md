@@ -4,7 +4,8 @@
 🤝 I’m looking to collaborate on
   * Mobile Development (using Kotlin, Jetpack Compose, KMM), <br>
   * DevOps (Docker, Kubernetes, CI/CD)<br>
-⚡ 20 years old 
+  
+⚡20 years old   
 🚀 [Linkedin](https://linkedin.com/in/adityamore2005)   
 💫 [Twitter](https://x.com/Adityaastwt)
 
