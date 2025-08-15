@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on my problem solving skills <br>
 🤝 I’m looking to collaborate on
-  * Mobile Development (using Kotlin, Jetpack Compose, KMM), <br>
+  * Mobile Development (using Kotlin, Jetpack Compose, KMP), <br>
   * DevOps (Docker, Kubernetes, CI/CD)<br>
   
 ⚡20 years old   
