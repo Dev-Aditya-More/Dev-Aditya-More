@@ -21,6 +21,12 @@
 
 ---
 
+## Github Stats:
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aditya-more&show_icons=true&theme=transparent)
+
+---
+
 # LeetCode Stats:
 
 ![](https://leetcard.jacoblin.cool/aditya1875more?ext=heatmap)
