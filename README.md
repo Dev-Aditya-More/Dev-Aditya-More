@@ -21,9 +21,7 @@
 
 ---
 
-# Github Stats:
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aditya-more&show_icons=true&theme=transparent)  &nbsp;&nbsp;&nbsp;  ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=dev-aditya-more&type=languages&theme=github)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=dev-aditya-more&type=languages&theme=github)
 
 [![An image of @aditya_contributes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya_contributes)](https://holopin.io/@aditya_contributes)
 
