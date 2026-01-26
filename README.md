@@ -36,6 +36,11 @@
 
 ---
 
+## Get me a coffee! ❤️
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-yellow.svg)](https://buymeacoffee.com/aditya1875q)
+
+---
+
 📫 How to reach me
 
 - email: aditya1875more@gmail.com
