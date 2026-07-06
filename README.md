@@ -50,9 +50,8 @@
 
 ## 🔗 Projects
 
-### Apps
 - 📖 [PokeVerse](https://github.com/Dev-Aditya-More/PokeVerse) : Made with ❤️ for Pokémon fans. Pokéverse is my tribute to the world of Pokemons
-- 🔗 [MoviesAppKMP](https://github.com/Dev-Aditya-More/MoviesAppKMP) : Movies app KMP (Under Construction!!!) (Assignemnet)
+- 🔗 [MoviesAppKMP](https://github.com/Dev-Aditya-More/MoviesAppKMP) : Movies app KMP (Under Construction!!!) (Assignment)
 - 💳 [FundFlow](https://github.com/Dev-Aditya-More/FundFlow) : A mutual fund exploration app (Assignment)
 - 📊 [Stashly](https://github.com/Dev-Aditya-More/Stashly) : A proper space for keeping all your essentials
 - 🛒 [Baskit](https://github.com/Dev-Aditya-More/Baskit) : A grocery scanner app to keep you absolutely there when it comes to perfect choices
