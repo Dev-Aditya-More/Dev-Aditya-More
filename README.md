@@ -48,38 +48,41 @@
 
 ---
 
-## 🔗 Projects
+## Projects
 
-- 📖 [PokeVerse](https://github.com/Dev-Aditya-More/PokeVerse) : Made with ❤️ for Pokémon fans. Pokéverse is my tribute to the world of Pokemons
-- 🔗 [MoviesAppKMP](https://github.com/Dev-Aditya-More/MoviesAppKMP) : Movies app KMP (Under Construction!!!) (Assignment)
-- 💳 [FundFlow](https://github.com/Dev-Aditya-More/FundFlow) : A mutual fund exploration app (Assignment)
-- 📊 [Stashly](https://github.com/Dev-Aditya-More/Stashly) : A proper space for keeping all your essentials
-- 🛒 [Baskit](https://github.com/Dev-Aditya-More/Baskit) : A grocery scanner app to keep you absolutely there when it comes to perfect choices
-- 💳 [PayU](https://github.com/Dev-Aditya-More/PayU) : PayU integration project (Assignment)
-- 🎵 [Resona](https://github.com/Dev-Aditya-More/Resona) : A offline music player in my style
-- 📰 [NewsPulse](https://github.com/Dev-Aditya-More/NewsPulse) : A news app made using jetpack compose
-- ✅ [Taskly](https://github.com/Dev-Aditya-More/Taskly) : A simple to do list app with some cool animations and core features
-- 🌤️ [BreezyTheApp](https://github.com/Dev-Aditya-More/BreezyTheApp) : A simple weather application made using jetpack compose and kotlin
-- 💬 [QuickJot](https://github.com/Dev-Aditya-More/QuickJot) : A basic crud app
-- 🧮 [CalculatorCompose](https://github.com/Dev-Aditya-More/CalculatorCompose) : A simple calculator simulation inspired by iOS
-- ⏱️ [StopWatchApp](https://github.com/Dev-Aditya-More/StopWatchApp) : A simple stopwatch app with a prolific ui changes
-- 🎮 [TicTacToeGame](https://github.com/Dev-Aditya-More/TicTacToeGame) : A simple tic tac toe game with immersive user experience
-- 📸 [CameraApp](https://github.com/Dev-Aditya-More/CameraApp) : A simple camera app just to explore and learn
-- 🎨 [FaceNox](https://github.com/Dev-Aditya-More/FaceNox) : It's a Photo editing tool working cross platform
+* [PokeVerse](https://github.com/Dev-Aditya-More/PokeVerse) – Made with love for Pokémon fans. PokéVerse is my tribute to the Pokémon universe.
+* [MoviesAppKMP](https://github.com/Dev-Aditya-More/MoviesAppKMP) – Kotlin Multiplatform movie app (Under Construction, Assignment).
+* [FundFlow](https://github.com/Dev-Aditya-More/FundFlow) – A mutual fund exploration app (Assignment).
+* [Stashly](https://github.com/Dev-Aditya-More/Stashly) – A dedicated space for organizing your essentials.
+* [Baskit](https://github.com/Dev-Aditya-More/Baskit) – A grocery scanner app to help make better shopping decisions.
+* [PayU](https://github.com/Dev-Aditya-More/PayU) – PayU payment gateway integration project (Assignment).
+* [Resona](https://github.com/Dev-Aditya-More/Resona) – An offline music player built with my own design style.
+* [NewsPulse](https://github.com/Dev-Aditya-More/NewsPulse) – A news app built using Jetpack Compose.
+* [Taskly](https://github.com/Dev-Aditya-More/Taskly) – A to-do list app with smooth animations and essential features.
+* [BreezyTheApp](https://github.com/Dev-Aditya-More/BreezyTheApp) – A weather application built with Kotlin and Jetpack Compose.
+* [QuickJot](https://github.com/Dev-Aditya-More/QuickJot) – A basic CRUD application.
+* [CalculatorCompose](https://github.com/Dev-Aditya-More/CalculatorCompose) – A calculator inspired by the iOS Calculator app.
+* [StopWatchApp](https://github.com/Dev-Aditya-More/StopWatchApp) – A stopwatch application with a polished UI.
+* [TicTacToeGame](https://github.com/Dev-Aditya-More/TicTacToeGame) – A Tic-Tac-Toe game with an immersive user experience.
+* [CameraApp](https://github.com/Dev-Aditya-More/CameraApp) – A camera application built for learning CameraX and Android camera APIs.
+* [FaceNox](https://github.com/Dev-Aditya-More/FaceNox) – A cross-platform photo editing application.
 
 ### Games & Learning Projects
-- 🎮 [Lexrush](https://github.com/Dev-Aditya-More/Lexrush) : My first ever game made using jetpack compose
-- 🕊️ [FlappyBird](https://github.com/Dev-Aditya-More/FlappyBird) : The og flappy bird game with some cool light and dark background
-- 💡 [DailySpark](https://github.com/Dev-Aditya-More/DailySpark) : It is a minimalistic quote generating app with some nice animations and ui
-- 🧠 [ThisOne](https://github.com/Dev-Aditya-More/ThisOne) : We get you the right memes for every situation (In Progress)
+
+* [Lexrush](https://github.com/Dev-Aditya-More/Lexrush) – My first game built using Jetpack Compose.
+* [FlappyBird](https://github.com/Dev-Aditya-More/FlappyBird) – A recreation of Flappy Bird with light and dark themes.
+* [DailySpark](https://github.com/Dev-Aditya-More/DailySpark) – A minimalist quote generator with smooth animations.
+* [ThisOne](https://github.com/Dev-Aditya-More/ThisOne) – An app that suggests memes for different situations (In Progress).
 
 ### Web & Full Stack
-- 🎨 [AdityasPortfolio](https://github.com/Dev-Aditya-More/AdityasPortfolio) : My current portfolio showing my work in android
-- 🦄 [pokeverse-web](https://github.com/Dev-Aditya-More/pokeverse-web) : PokeVerse web version
-- 🔐 [Ashwin](https://github.com/Dev-Aditya-More/Ashwin) : Portfolio for my uncle's interior work 
+
+* [AdityasPortfolio](https://github.com/Dev-Aditya-More/AdityasPortfolio) – My portfolio showcasing Android projects and experience.
+* [pokeverse-web](https://github.com/Dev-Aditya-More/pokeverse-web) – The web version of PokeVerse.
+* [Ashwin](https://github.com/Dev-Aditya-More/Ashwin) – Portfolio website for an interior design business.
 
 ### Backend & DevOps
-- 📦 [StashlyBackend](https://github.com/Dev-Aditya-More/StashlyBackend) : A kotlin springboot based backend made for stashly app to help it scale further in future
-- 🐳 [node-docker-app](https://github.com/Dev-Aditya-More/node-docker-app) : Node docker app project
-- 🐳 [PyAppWithDocker](https://github.com/Dev-Aditya-More/PyAppWithDocker) : Python app with Docker
-- 🐍 [PythonAutomationScripts](https://github.com/Dev-Aditya-More/PythonAutomationScripts) : Projects based on Automation using python
+
+* [StashlyBackend](https://github.com/Dev-Aditya-More/StashlyBackend) – A Kotlin Spring Boot backend powering Stashly.
+* [node-docker-app](https://github.com/Dev-Aditya-More/node-docker-app) – A sample Node.js application containerized with Docker.
+* [PyAppWithDocker](https://github.com/Dev-Aditya-More/PyAppWithDocker) – A Python application containerized with Docker.
+* [PythonAutomationScripts](https://github.com/Dev-Aditya-More/PythonAutomationScripts) – Python automation scripts and utilities.
