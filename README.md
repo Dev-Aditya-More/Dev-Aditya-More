@@ -71,7 +71,7 @@
 - 🎮 [Lexrush](https://github.com/Dev-Aditya-More/Lexrush) : My first ever game made using jetpack compose
 - 🕊️ [FlappyBird](https://github.com/Dev-Aditya-More/FlappyBird) : The og flappy bird game with some cool light and dark background
 - 💡 [DailySpark](https://github.com/Dev-Aditya-More/DailySpark) : It is a minimalistic quote generating app with some nice animations and ui
-- 🧠 [ThisOne](https://github.com/Dev-Aditya-More/ThisOne) : We get you the right memes for every situation
+- 🧠 [ThisOne](https://github.com/Dev-Aditya-More/ThisOne) : We get you the right memes for every situation (In Progress)
 
 ### Web & Full Stack
 - 🎨 [AdityasPortfolio](https://github.com/Dev-Aditya-More/AdityasPortfolio) : My current portfolio showing my work in android
@@ -82,8 +82,4 @@
 - 📦 [StashlyBackend](https://github.com/Dev-Aditya-More/StashlyBackend) : A kotlin springboot based backend made for stashly app to help it scale further in future
 - 🐳 [node-docker-app](https://github.com/Dev-Aditya-More/node-docker-app) : Node docker app project
 - 🐳 [PyAppWithDocker](https://github.com/Dev-Aditya-More/PyAppWithDocker) : Python app with Docker
-
-### Other Projects
 - 🐍 [PythonAutomationScripts](https://github.com/Dev-Aditya-More/PythonAutomationScripts) : Projects based on Automation using python
-- 🎬 [9-days-9-projects](https://github.com/Dev-Aditya-More/9-days-9-projects) : 9 days 9 projects challenge
-- 🐍 [Basic-Python-Programs](https://github.com/Dev-Aditya-More/Basic-Python-Programs) : This repository will contain basic python programming questions and their solutions
